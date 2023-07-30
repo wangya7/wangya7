@@ -9,6 +9,6 @@
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
 
-[![BN's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangya7)](https://github.com/anuraghazra/github-readme-stats)
+[![BN's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangya7)](https://github.com/wangya7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangya7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangya7&layout=compact)](https://github.com/wangya7)
