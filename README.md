@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hey,Nice to see you!🤗
 
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.61 %
+welcome to my page!
 
----
-
-⏰ Updated on Sun, 30 Jul 2023 06:20:40 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+### Skill Stack
+![](https://img.shields.io/badge/Java-1.8-green)
+![](https://img.shields.io/badge/%20-Redis-green)
+![](https://img.shields.io/badge/%20-MySQL-green)
